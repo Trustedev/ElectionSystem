@@ -1,0 +1,15 @@
+C:\Users\baran\source\repos\ElectionSystem\obj\Debug\net6.0\ElectionSystem.csproj.AssemblyReference.cache
+C:\Users\baran\source\repos\ElectionSystem\obj\Debug\net6.0\ElectionSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran\source\repos\ElectionSystem\obj\Debug\net6.0\ElectionSystem.AssemblyInfoInputs.cache
+C:\Users\baran\source\repos\ElectionSystem\obj\Debug\net6.0\ElectionSystem.AssemblyInfo.cs
+C:\Users\baran\source\repos\ElectionSystem\obj\Debug\net6.0\ElectionSystem.csproj.CoreCompileInputs.cache
+C:\Users\baran\source\repos\ElectionSystem\bin\Debug\net6.0\ElectionSystem.exe
+C:\Users\baran\source\repos\ElectionSystem\bin\Debug\net6.0\ElectionSystem.deps.json
+C:\Users\baran\source\repos\ElectionSystem\bin\Debug\net6.0\ElectionSystem.runtimeconfig.json
+C:\Users\baran\source\repos\ElectionSystem\bin\Debug\net6.0\ElectionSystem.dll
+C:\Users\baran\source\repos\ElectionSystem\bin\Debug\net6.0\ElectionSystem.pdb
+C:\Users\baran\source\repos\ElectionSystem\obj\Debug\net6.0\ElectionSystem.dll
+C:\Users\baran\source\repos\ElectionSystem\obj\Debug\net6.0\refint\ElectionSystem.dll
+C:\Users\baran\source\repos\ElectionSystem\obj\Debug\net6.0\ElectionSystem.pdb
+C:\Users\baran\source\repos\ElectionSystem\obj\Debug\net6.0\ElectionSystem.genruntimeconfig.cache
+C:\Users\baran\source\repos\ElectionSystem\obj\Debug\net6.0\ref\ElectionSystem.dll
